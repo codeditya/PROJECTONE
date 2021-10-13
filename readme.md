@@ -9,8 +9,13 @@ What do we aim to do:-
 4. Perfommance analaysis through pictorial representation.
 
 <h2>Tools and Technologies</h2>
-1. HTML
-2. CSS
-3. JAVASCRIPT
-4. REACT.JS
+1. HTML <br/>
+2. CSS<br/>
+3. JAVASCRIPT<br/>
+4. REACT.JS<br/>
+5. DJANGO<br/>
+6. DJANGO REST FRAMEWORK<br/>
+7. BOOTSTRAP<br/>
+8. GIT<br/>
+9. GITHUB<br/>
 
